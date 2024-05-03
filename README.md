@@ -1,4 +1,4 @@
-# Password Strength API
+# Safe Score API
 
 Esta API é uma solução simples em .NET Core 6 que permite a análise da força de senhas. Utiliza critérios como comprimento da senha, uso de caracteres especiais, números, letras maiúsculas e minúsculas para determinar a segurança de uma senha fornecida.
 
